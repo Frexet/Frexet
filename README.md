@@ -8,7 +8,7 @@ Hi, I'm @Frexet!
 
 💡 Always Learning: Whether it's a new programming language or the latest tech trend, I'm constantly on the lookout for opportunities to learn and grow.
 
-🎮 Speedrunner: I love finding the fastest way to beat my favorite games. My current record? You’ll have to check out my streams to find out.
+🎮 Hearthstone & WoW Enthusiast: Big fan of Hearthstone and World of Warcraft. Love strategizing and immersing myself in these epic worlds.
 
 ☕ Coffee Connoisseur: I can’t code without my daily dose of caffeine. Ask me about my latest coffee obsession!
 
