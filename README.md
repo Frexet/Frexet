@@ -1,22 +1,22 @@
-Hi, I'm @Frexet!
+Hi, I’m @Frexet! 👋
 
-🖥️ Tech Enthusiast: I've been tinkering with computers since I could reach the keyboard. From hardware mods to software hacks, you name it – I've probably tried it.
+👨‍💻 Tech Explorer – I’ve been tinkering with computers since I could reach the keyboard. From hardware mods to software hacks – if it involves tech, I’ve probably tried it.
 
-🕹️ Gamer Extraordinaire: When I'm not coding, you'll likely find me dominating the latest esports titles or hosting epic LAN parties.
+🎮 Gamer at Heart – When I’m not coding, you’ll find me deep in epic raids, LAN parties, or climbing the Hearthstone ladder with my guild Orka. Gaming is life.
 
-🌐 Community Advocate: I believe in the power of open source and love contributing to projects that make a difference. Collaboration is key!
+🌍 Open Source Advocate – I believe in the power of collaboration and love contributing to projects that bring real value. GitHub is where passion meets purpose.
 
-💡 Always Learning: Whether it's a new programming language or the latest tech trend, I'm constantly on the lookout for opportunities to learn and grow.
+🚀 Always Learning – Whether it’s a new programming language, a cutting-edge tool, or an emerging trend, I’m always hungry to grow and improve.
 
-🎮 Hearthstone & WoW Enthusiast: Big fan of Hearthstone and World of Warcraft. Love strategizing and immersing myself in these epic worlds.
+🧙 WoW & Hearthstone Nerd – Big fan of fantasy strategy games. I live for lore, teamwork, and perfectly timed plays.
 
-☕ Coffee Connoisseur: I can’t code without my daily dose of caffeine. Ask me about my latest coffee obsession!
+☕ Fueled by Coffee – Coding without caffeine? Unthinkable. Let’s talk brewing methods and bean origins anytime!
 
-🎨 Creative Coder: When I'm not solving problems with code, I enjoy creating digital art and animations. Pixels are my playground.
+🎨 Creative Technologist – I love blending logic with creativity through digital art, animations, and pixel-perfect design. Creativity keeps the code flowing.
 
-🎸 Guitarist & DJ: I play guitar and dabble as a DJ on a hobby level, following a previous professional career in music.
+🎸 Guitarist & DJ – Former music professional turned hobbyist. Music still plays a huge part in my creative process.
 
-📅 Event Geek: Used to be the project manager for Birdie, the demo party in Uppsala. Organizing these events was a blast and a perfect mix of tech and fun!
+🎉 Event Geek – I’ve proudly been part of both Birdie and DreamHack – helping organize, host, and breathe life into some of the most unforgettable gaming and tech events in Sweden. Community is everything.
 
 <!---
 Frexet/Frexet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
